@@ -1,6 +1,27 @@
 # INSTRUCTIONS POUR UTILISER CETTE DÉMO
 
 
+
+
+
+
+This demo enable 4 players to connect to a game
+
+1. install flask, flask-socketio, eventlet (with pip)
+2. run app.py
+3. run index.html (in a recent navigator, chrome works well) 4 times
+4. start looking for a game with 4 different names
+
+then draw in collaboration with your partner, then vote for your preferred drawing !
+
+watch the video demo for more details. (in this video 4 players a b c and d draw their own name every time)
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
 cette démo permet a 4 joueurs de se connecter a une 'partie'
 
 0. installer les librairies suivantes
